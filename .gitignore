@@ -1,0 +1,27 @@
+.gradle/
+build/
+local.properties
+*.iml
+.idea/
+app/build/
+app/mapping.txt
+.android-sdk/
+.superpowers/
+.kotlin
+docs/superpowers/
+.worktrees/
+docs/
+graphify-out
+docs
+artwork
+tools
+/test_image
+/app/release
+/design-previews
+
+# Keep the advertising integration contract and validation handoff reviewable.
+!docs/
+docs/*
+!docs/ads/
+docs/ads/*
+!docs/ads/*.md
